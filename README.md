@@ -1,5 +1,5 @@
 # Project
-Coin Recogntion App
+Free-Lance app
 Conrad Rife
 Lex Hall
 Kiefer Hill
